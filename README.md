@@ -1,2 +1,2 @@
 # git_1-
-Database management 
+This is my first repository for the course Database Management and Visualisation. 
